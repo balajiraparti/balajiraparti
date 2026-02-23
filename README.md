@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Agentic AI projects<br>👯 I’m looking to collaborate on AI/ML projects<br>🤝 I’m looking for help with Advanced AI agent architectures. System design and scalable backend development<br>🌱 I’m currently learning ML fundamentals,NLP,GEN AI<br>
+🔭 I’m currently working on Agentic AI projects<br>👯 I’m looking to collaborate on AI/ML projects<br>🤝 I’m looking for help with Advanced AI agent architectures. System design and scalable backend development<br>🌱 I’m currently learning ML,NLP,GEN AI<br>
 
 
 ## 🌐 Socials:
