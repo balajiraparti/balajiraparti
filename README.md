@@ -1,7 +1,7 @@
 # 💫 About Me:
 I started by building a strong foundation in Python, backend systems, and core computer science concepts, which shaped my approach to solving real world problems with structured thinking.
 
-Currently, I work on agentic AI systems, focusing on LLM integration, prompt engineering, and building scalable, production ready solutions. I enjoy turning ideas into working systems and collaborating on AI and machine learning projects that have practical impact.
+Currently, I work on agentic AI systems, focusing on LLM integration, RAG pipeline and building scalable, production ready solutions. I enjoy turning ideas into working systems and collaborating on AI and machine learning projects that have practical impact.
 
 Going forward, I aim to deepen my expertise in data science, machine learning, and advanced AI architectures, while strengthening my skills in system design and scalable backend development. I am seeking opportunities as an AI ML Engineer or GenAI Developer where I can contribute to real world AI systems and grow in high impact environments.
 
