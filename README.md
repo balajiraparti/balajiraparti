@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Agentic AI projects<br>👯 I’m looking to collaborate on AI/ML projects<br>🤝 I’m looking for help with Advanced AI agent architectures. System design and scalable backend development<br>🔍 Want to deep dive into Data Science and Machine Learning
+I started by building a strong foundation in Python, backend systems, and core computer science concepts, which shaped my approach to solving real world problems with structured thinking.
 
+Currently, I work on agentic AI systems, focusing on LLM integration, prompt engineering, and building scalable, production ready solutions. I enjoy turning ideas into working systems and collaborating on AI and machine learning projects that have practical impact.
+
+Going forward, I aim to deepen my expertise in data science, machine learning, and advanced AI architectures, while strengthening my skills in system design and scalable backend development. I am seeking opportunities as an AI ML Engineer or GenAI Developer where I can contribute to real world AI systems and grow in high impact environments.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balajiraparti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/balaji-raparti-95752928a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/balajiraparti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balajiraparti2005@gmail.com) 
